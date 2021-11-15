@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+<ItemGroup>
+    <ProjectReference Include="..\PalomaStore.Domain\PalomaStore.Domain.csproj" />
+    <ProjectReference Include="..\PalomaStore.Shared\PalomaStore.Shared.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="dapper" Version="1.50.2" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Infra\bin\Debug\net5.0\PalomaStore.Infra.deps.json
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Infra\bin\Debug\net5.0\PalomaStore.Infra.dll
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Infra\bin\Debug\net5.0\ref\PalomaStore.Infra.dll
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Infra\bin\Debug\net5.0\PalomaStore.Infra.pdb
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Infra\obj\Debug\net5.0\PalomaStore.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Infra\obj\Debug\net5.0\PalomaStore.Infra.AssemblyInfoInputs.cache
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Infra\obj\Debug\net5.0\PalomaStore.Infra.AssemblyInfo.cs
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Infra\obj\Debug\net5.0\PalomaStore.Infra.csproj.CoreCompileInputs.cache
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Infra\obj\Debug\net5.0\PalomaStore.Infra.dll
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Infra\obj\Debug\net5.0\ref\PalomaStore.Infra.dll
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Infra\obj\Debug\net5.0\PalomaStore.Infra.pdb
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Infra\obj\Debug\net5.0\PalomaStore.Infra.csproj.AssemblyReference.cache
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Infra\bin\Debug\net5.0\PalomaStore.Domain.dll
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Infra\bin\Debug\net5.0\PalomaStore.Shared.dll
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Infra\bin\Debug\net5.0\PalomaStore.Domain.pdb
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Infra\bin\Debug\net5.0\PalomaStore.Shared.pdb
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Infra\obj\Debug\net5.0\PalomaStore.Infra.csproj.CopyComplete

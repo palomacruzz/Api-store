@@ -1,0 +1,12 @@
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Shared\bin\Debug\net5.0\PalomaStore.Shared.deps.json
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Shared\bin\Debug\net5.0\PalomaStore.Shared.dll
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Shared\bin\Debug\net5.0\ref\PalomaStore.Shared.dll
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Shared\bin\Debug\net5.0\PalomaStore.Shared.pdb
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Shared\obj\Debug\net5.0\PalomaStore.Shared.csproj.AssemblyReference.cache
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Shared\obj\Debug\net5.0\PalomaStore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Shared\obj\Debug\net5.0\PalomaStore.Shared.AssemblyInfoInputs.cache
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Shared\obj\Debug\net5.0\PalomaStore.Shared.AssemblyInfo.cs
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Shared\obj\Debug\net5.0\PalomaStore.Shared.csproj.CoreCompileInputs.cache
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Shared\obj\Debug\net5.0\PalomaStore.Shared.dll
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Shared\obj\Debug\net5.0\ref\PalomaStore.Shared.dll
+C:\Users\arthu\dev\PalomaStore\PalomaStore.Shared\obj\Debug\net5.0\PalomaStore.Shared.pdb
